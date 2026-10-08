@@ -90,5 +90,3 @@ The platform was subjected to stress testing using an asynchronous Python load t
 * **Throughput:** 171 Requests Per Second (RPS)
 * **p99 Latency:** 5.49 ms (across 1,000 concurrent payloads)
 * **Success Rate:** 100% (zero dropped connections, utilizing exponential backoff and DLQ fallback)
-
-header.
